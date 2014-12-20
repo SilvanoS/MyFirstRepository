@@ -1,3 +1,3 @@
-Assignment2
+MyFirstRepository
 ===========
-Hello World! :) In this repository you will find the script for 'Programming Assignment 2'.
+Hello World! :) This is my first repository.
